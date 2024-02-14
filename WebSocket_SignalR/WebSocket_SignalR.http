@@ -1,0 +1,6 @@
+@WebSocket_SignalR_HostAddress = http://localhost:5100
+
+GET {{WebSocket_SignalR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
