@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureADAuth", "AzureADAuth.csproj", "{1FEA1212-763C-490B-82DC-0ED9E442E8E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FEA1212-763C-490B-82DC-0ED9E442E8E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FEA1212-763C-490B-82DC-0ED9E442E8E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FEA1212-763C-490B-82DC-0ED9E442E8E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FEA1212-763C-490B-82DC-0ED9E442E8E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F306947-8A06-47D9-8408-1BDE9837C6B6}
+	EndGlobalSection
+EndGlobal
